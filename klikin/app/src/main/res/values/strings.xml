@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">klikin</string>
+    <string name="txt_name_main_activity">Listado de comercios</string>
+    <string name="type_shopping_shop">Compras</string>
+    <string name="type_leisure_shop">Ocio</string>
+    <string name="type_beauty_shop">Belleza</string>
+    <string name="type_food_shop">Restaurantes</string>
+    <string name="type_other_shop">Otros</string>
+    <string name="txt_distance_item_card_shop">%1$sm.</string>
+    <string name="txt_location">Localización</string>
+    <string name="txt_take_me_here">Llévame aquí</string>
+    <string name="txt_social_media">Redes Sociales</string>
+    <string name="txt_instagram">Instagram</string>
+    <string name="txt_twitter">Twitter</string>
+    <string name="txt_facebook">Facebook</string>
+    <string name="txt_about_shop">Sobre el comercio</string>
+    <string name="txt_init_num_shops">0</string>
+    <string name="txt_shops">Comercios</string>
+    <string name="txt_short_by_distance">Ordena por distancia</string>
+    <string name="txt_no_Connection">Sin conexión</string>
+    <string name="txt_ordered_by_distance">A menos de %1$s km</string>
+    <string name="txt_ordered_by_distance_1">A menos de 1 km</string>
+    <string name="txt_ordered_by_distance_5">A menos de 5 km</string>
+    <string name="txt_ordered_by_distance_10">A menos de 10 km</string>
+    <string name="txt_ordered_by_distance_20">A menos de 20 km</string>
+
+    <string name="txt_permission_location">Si no aceptas el permiso de localización, no podrás ver los comercios más cercanos</string>
+    <string name="txt_btn_accept">Aceptar</string>
+
+</resources>
